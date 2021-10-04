@@ -8,6 +8,7 @@ Freelance - work and employee search service.
 4. [Deployment](#Deployment-order)
 5. [Database structure](#Database-structure)
 6. [Technologies](#Technologies)
+7. [Schemes](#Schemes)
 ___
 ## General info
 Worklance is a web-service that allows you to easily find orders, create orders, search for employees, contact with them and create teams.
@@ -91,3 +92,6 @@ ___
 - [JSTL](https://docs.oracle.com/javaee/5/tutorial/doc/bnake.html) - Library for JSP
 - [Log4j](https://logging.apache.org/log4j/2.x/) - Logging library
 - [TestNG](https://testng.org/doc/) - Testing framework
+
+##Schemes
+![FS_FREELANCE.png](pages/FS_FREELANCE.png)
